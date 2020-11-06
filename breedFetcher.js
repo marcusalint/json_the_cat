@@ -24,3 +24,5 @@ const fetchBreedDescription = function(breedName, cb) {
   
   });
 };
+
+module.exports = { fetchBreedDescription };
